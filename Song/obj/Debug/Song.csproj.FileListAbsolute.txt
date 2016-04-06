@@ -1,0 +1,15 @@
+c:\users\oleg\documents\visual studio 2012\Projects\Song\Song\obj\Debug\Song.csprojResolveAssemblyReference.cache
+c:\users\oleg\documents\visual studio 2012\Projects\Song\Song\bin\Debug\Song.exe
+c:\users\oleg\documents\visual studio 2012\Projects\Song\Song\bin\Debug\Song.pdb
+c:\users\oleg\documents\visual studio 2012\Projects\Song\Song\obj\Debug\Song.exe
+c:\users\oleg\documents\visual studio 2012\Projects\Song\Song\obj\Debug\Song.pdb
+D:\Song\Song\obj\Debug\Song.exe
+D:\Song\Song\obj\Debug\Song.pdb
+D:\Song\Song\bin\Debug\Song.exe
+D:\Song\Song\bin\Debug\Song.pdb
+D:\Song\Song\obj\Debug\Song.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\Dropbox\Song\Song\obj\Debug\Song.exe
+C:\Users\Oleg\Dropbox\Song\Song\obj\Debug\Song.pdb
+C:\Users\Oleg\Dropbox\Song\Song\bin\Debug\Song.exe
+C:\Users\Oleg\Dropbox\Song\Song\bin\Debug\Song.pdb
+C:\Users\Oleg\Dropbox\Song\Song\obj\Debug\Song.csprojResolveAssemblyReference.cache
