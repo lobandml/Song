@@ -63,7 +63,7 @@ namespace Song
 
             sledge.peasant = peasant;
             horse.sledge = sledge;
-            sledge.movetool = horse;
+            
 
             myforest.SeasonChanges();
 
